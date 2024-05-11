@@ -1,4 +1,4 @@
-![Imagem](URL_da_Imagem)
+![Imagem](https://raw.githubusercontent.com/spiderbuddy411/Buscador-de-CEP/0d029a8bdd436649b6a40810a78a5b0220ce313b/img/Home%20da%20Pagina.jpg?token=GHSAT0AAAAAACSFIDXLWBDIRC65NGBVGRGUZR7ZXRA)
 
 
 # API de Busca de CEP
