@@ -18,7 +18,7 @@ Antes de começar, certifique-se de ter o Node.js instalado em sua máquina. Voc
 
 ### Instalação
 
-1. Clone este repositório: git clone https://seu-repositorio.git
+1. Clone este repositório: git clone https://github.com/spiderbuddy411/Buscador-de-CEP.git
 2. Acesse o diretório do projeto: cd nome-do-projeto
 3. Instale as dependências: npm install
 
